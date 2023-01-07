@@ -1,6 +1,7 @@
 # Hi I'm Wildy
 
-I might start coding again soon so I made a new GitHub account
+I recently started coding again.
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Live in England
-Likes py and java
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Lives in England
+
+❤ I like Python :)
