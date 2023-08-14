@@ -1,6 +1,6 @@
 # Wildy
 Hey, I'm Wildy
-#### (BIO Page)[https://e-z.bio/wild]
+#### [BIO Page](https://e-z.bio/wild)
 
 ## About Me
 
