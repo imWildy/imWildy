@@ -3,7 +3,7 @@
 
 ## About Me
 
-#### I am a front-end developer from the United Kingdom!
+#### I am a developer from the United Kingdom!
 #### I mainly use JavaScript to make my projects.
 
 <b>----------------------------------------------------------------------</b>
