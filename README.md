@@ -8,10 +8,4 @@
 
 <b>----------------------------------------------------------------------</b>
 
-## Languages I Am learning:
-<p>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007acc"/>
-<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=E44D26"/>
-</p>
+[![Wildy's GitHub stats](https://github-readme-stats.vercel.app/api?username=imWildy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
