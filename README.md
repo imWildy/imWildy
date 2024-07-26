@@ -3,9 +3,11 @@
 
 ## About Me
 
-#### I am a developer from the United Kingdom!
-#### I mainly use JavaScript to make my projects.
+## From the <b>UK</b>🇬🇧
+## Message me on my <b><a href="https://discord.com/users/661332700896034850">Discord</a></b>
+## I mainly use <b>JavaScript</b> and <b>Python</b>
+## Currently learning <b>PHP</b>
 
 <b>----------------------------------------------------------------------</b>
 
-[![Wildy's GitHub stats](https://github-readme-stats.vercel.app/api?username=imWildy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imWildy&theme=dark)]
