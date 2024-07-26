@@ -15,4 +15,4 @@
 
 <b>----------------------------------------------------------------------</b>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imWildy&theme=dark)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imWildy&theme=dark)]
