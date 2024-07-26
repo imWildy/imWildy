@@ -1,6 +1,7 @@
-# <a align="center">Wildy</a>
+# <p align="center">Wildy</p>
 <h3 align="center">Hey, I'm <a href="https://e-z.bio/wild">Wildy</a></h3>
-<a align="center"> <img src="https://komarev.com/ghpvc/?username=imwildy10&label=Profile%20views&color=white&style=flat" alt="views" /> </a>
+<a align="center"> <img src="https://komarev.com/ghpvc/?username=imwildy10&label=Profile%20views&color=ffffff&style=flat" alt="views" /> </a>
+
 ## About Me
 
 <p><h4>From the <b>UK</b>🇬🇧</p>
