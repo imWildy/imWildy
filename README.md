@@ -3,13 +3,13 @@
 
 ## About Me
 
-<h4>From the <b>UK</b>🇬🇧
+<p><h4>From the <b>UK</b>🇬🇧</p>
 
-Message me on my <b><a href="https://discord.com/users/661332700896034850">Discord</a></b>
+<p>Message me on my <b><a href="https://discord.com/users/661332700896034850">Discord</a></b></p>
 
-I mainly use <b>JavaScript</b> and <b>Python</b>
+<p>I mainly use <b>JavaScript</b> and <b>Python</b></p>
 
-Currently learning <b>PHP</b></h4>
+<p>Currently learning <b>PHP</b></h4></p>
 
 <b>----------------------------------------------------------------------</b>
 
