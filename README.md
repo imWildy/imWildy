@@ -4,8 +4,11 @@
 ## About Me
 
 <h4>From the <b>UK</b>🇬🇧
+
 Message me on my <b><a href="https://discord.com/users/661332700896034850">Discord</a></b>
+
 I mainly use <b>JavaScript</b> and <b>Python</b>
+
 Currently learning <b>PHP</b></h4>
 
 <b>----------------------------------------------------------------------</b>
