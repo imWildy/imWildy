@@ -1,15 +1,16 @@
-<h1 align="center">Wildy</h1>
-<h3 align="center">Hey, I'm <a href="https://e-z.bio/wild">Wildy</a></h3>
+Hiii, I'm <a href="https://e-z.bio/wildy">Wildy<3</a>
 
-<h1 align="center">About Me</h1>
+<br>
 
-<p><h4 align="center">From the <b>UK</b>🇬🇧</p>
+British 🇬🇧
 
-<p align="center">Message me on my <b><a href="https://discord.com/users/661332700896034850">Discord</a></b></p>
+My Discord is: `wildydev` <a href="https://discord.com/users/661332700896034850">(profile)</a>
 
-<p align="center">I mainly use <b>JavaScript</b> and <b>Python</b></p>
+I like making Minecraft bots using Mineflayer and Node.JS and sometimes I make python discord bots.
 
-<p align="center">Currently learning <b>PHP</b></h4></p>
+Currently learning `Java`
+
+my code is almost never readable but who cares because it works😌</sub>
 
 <b>----------------------------------------------------------------------</b>
 
