@@ -14,4 +14,4 @@ my code is almost never readable but who cares because it works😌</sub>
 
 <b>----------------------------------------------------------------------</b>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imWildy&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
