@@ -10,8 +10,4 @@ I like making Minecraft bots using Mineflayer and Node.JS and sometimes I make p
 
 Currently learning `Java`
 
-my code is almost never readable but who cares because it works😌</sub>
-
-<b>----------------------------------------------------------------------</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imWildy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+my code is almost never readable but who cares because it works😌
