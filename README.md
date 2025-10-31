@@ -14,5 +14,5 @@ my code is almost never readable but who cares because it works😌
 
 ======================================================================
 
-![Top Languages](https://githubreadmestats.aalex.uk/api/top-langs/?username=imWildy&layout=compact&theme=dracula)
-![Wakatime Stats](https://githubreadmestats.aalex.uk/api/wakatime?username=alexxgb&layout=compact&theme=dracula)
+![Top Languages](https://githubreadmestats.aalex.uk/api/top-langs/?username=imWildy&layout=compact&theme=dracula&border_radius=4.5)
+![Wakatime Stats](https://githubreadmestats.aalex.uk/api/wakatime?username=alexxgb&layout=compact&theme=dracula&border_radius=4.5)
