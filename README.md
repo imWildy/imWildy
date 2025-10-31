@@ -11,3 +11,8 @@ I like making Minecraft bots using Mineflayer and Node.JS and sometimes I make p
 Currently learning `Java`
 
 my code is almost never readable but who cares because it works😌
+
+======================================================================
+
+![Top Langs](https://githubreadmestats.aalex.uk/api/top-langs/?username=imWildy&layout=compact&theme=dracula)
+![Wakatime Stats](https://githubreadmestats.aalex.uk/api/wakatime?username=alexxgb&layout=compact&theme=dracula)
