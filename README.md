@@ -15,4 +15,4 @@ my code is almost never readable but who cares because it works😌
 ======================================================================
 
 ![Top Languages](https://githubreadmestats.aalex.uk/api/top-langs/?username=imWildy&layout=compact&theme=dracula&border_radius=4.5)
-![Wakatime Stats](https://githubreadmestats.aalex.uk/api/wakatime?username=wildy&layout=compact&theme=dracula&api_domain=wakapi.nont.nl&border_radius=4.5)
+![Wakatime Stats](https://githubreadmestats.aalex.uk/api/wakatime?username=wildy&layout=compact&theme=dracula&api_domain=wakapi.nont.nl&range=last_7_days&border_radius=4.5)
